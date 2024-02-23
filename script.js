@@ -102,7 +102,7 @@ function translatePage(language) {
         document.querySelector('#imageApp').innerHTML = '<strong>Търсачка на изображения: </strong><a id="1appDescrition1">Разглеждайте визуални изображения без усилие с нашата търсачка на изображения. Намерете разнообразни изображения въз основа на вашите заявки.</a>'
         document.querySelector('#musicApp').innerHTML = '<strong>Плейър за музика: </strong><a id="1appDescrition1">Разглеждайте любимите си мелодии лесно с нашия музикален плейър. С представения потребителски интерфейс експериментирайте в своята музикална колекция с лекота.</a>'
        
-        document.querySelector('#convertersHeader').innerText = 'Конвертори:'
+        document.querySelector('#convertersHeader').innerText = 'Конвертори'
         document.querySelector('#converter1').innerHTML = '<strong> Конвертор за температури:</strong> Конвертор за температури: Лесно преобразявайте температури между Целзий, Фаренхайт и Келвин.'
         document.querySelector('#converter2').innerHTML = '<strong>Конвертор за валути:</strong> Мигновено преобразявайте валути за пътуване или бизнес нужди.'
         document.querySelector('#converter3').innerHTML = '<strong>Конвертор за тегло: </strong> Бързо превключвайте между либри и килограми.'
